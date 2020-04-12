@@ -10,7 +10,7 @@ public class HomeWork {
 		String plateNumber = "苏E·00000";
 		String beginTime = "6:00";
 		String endTime = "20:00";
-		System.out.println(num +"·");
+		System.out.println(num +"路");
 		System.out.println("车牌号:"+plateNumber);
 		System.out.println("早班时间："+beginTime);
 		System.out.println("晚班时间："+endTime);
