@@ -22,7 +22,7 @@ public class Hospital {
 				if (cfm.equals("Y")||cfm.equals("y")) {
 				System.out.println("挂号成功！");
 				break;
-				}else if (cfm.equals("N")||cfm.equals("y")) {
+				}else if (cfm.equals("N")||cfm.equals("n")) {
 				System.out.println("已退出");
 				return;
 				}else {
