@@ -134,7 +134,5 @@ public class HomeWork0417 {
 
 class Hotel {
 	String name;//酒店名
-	int vipPrice;//会员价
-	int vouchers;//代金券
 	String address;//地址
 }
